@@ -1,7 +1,7 @@
 pkgbase = wallpaper-archpaint2
 	pkgdesc = A Nice Archlinux Wallpaper
 	pkgver = 1.1
-	pkgrel = 1
+	pkgrel = 2
 	url = http://www.archlinux.org/
 	install = wallpaper-archpaint2.install
 	arch = any
