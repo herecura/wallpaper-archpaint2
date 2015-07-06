@@ -2,7 +2,7 @@
 
 pkgname=wallpaper-archpaint2
 pkgver=1.1
-pkgrel=2
+pkgrel=3
 pkgdesc="A Nice Archlinux Wallpaper"
 arch=( 'any' )
 url="http://www.archlinux.org/"
